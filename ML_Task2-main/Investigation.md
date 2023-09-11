@@ -54,8 +54,11 @@ These different functions have different uses and although the sigmoid function 
 
 ## References
 Tam, A 2023, Using Activation Functions in Deep Learning Models - MachineLearningMastery.com, MachineLearningMastery.com, viewed 8 September 2023, <https://machinelearningmastery.com/using-activation-functions-in-deep-learning-models/>.
+
 SHARMA, S 2017, Activation Functions in Neural Networks - Towards Data Science, Medium, Towards Data Science, viewed 9 September 2023, <https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6>.
+
 Activation functions in Neural Networks 2018, GeeksforGeeks, GeeksforGeeks, viewed 9 September 2023, <https://www.geeksforgeeks.org/activation-functions-neural-networks/>.
+
 Activation functions in neural networks [Updated 2023] | SuperAnnotate 2023, Superannotate.com, viewed 10 September 2023, <https://www.superannotate.com/blog/activation-functions-in-neural-networks>.
 
 ‌
