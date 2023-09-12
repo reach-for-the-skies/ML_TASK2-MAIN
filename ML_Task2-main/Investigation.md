@@ -4,6 +4,9 @@
 ## Introduction
 This experiment will test the effect of different activation functions on a machine learnig model. The functions will be tested on a machine learning model that is learning how to drive around a track with 5 inputs. The functions that will be tested are the sigmoid, Rectified Linear Unit (ReLU), Hyperbolic Tangent (Tanh), clamped. The average fitness of generations 3, 5, 10, 20 30, 40, 50 will be recorded. This will asses the best function for this application.
 
+### Independent variable
+For this experiment the independent variable is the activation function. This experiment uses the sigmoid function, rectified linear unit function, hyperbolic tangent function, and the clamped function. These functions are shown below.
+
 >Sigmoid
 
 ![sigmoid](assets/Sigmoid.webp)
@@ -20,7 +23,8 @@ This experiment will test the effect of different activation functions on a mach
 
 ![clamped](assets/Clamped.webp)
 
-
+### Dependent variable
+The fitness of the car is being measured and the higher the value the better the score. The fitness is calculated based on the distance the car has gone in the time taken. There is a limited time that a generation ends however this is why distance is important as it means the faster the car goes the higher the fitness score.
 ## Method
 1. Download this repository and open the `newcar.py` file. The default function is the sigmoid function.
 2. Install the required libraries including `neat-python` and `pygame`
